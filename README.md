@@ -31,6 +31,7 @@ You can see the imbalance of the dataset with this plot :
 # Modeling
 
 1) Model Building (Imbalanced Dataset)
+
    Convolutional Neural Network (CNNs)
    
    ![ana15](https://user-images.githubusercontent.com/33470542/81508979-71040680-92d5-11ea-8af9-6d7cae255eec.png)
@@ -45,9 +46,21 @@ You can see the imbalance of the dataset with this plot :
 2) Model Building (Downsampling the majority class)
 
 
+   ![ana17](https://user-images.githubusercontent.com/33470542/81513595-8558fb00-92f7-11ea-9d90-d7653e8df262.png)
 
 
 # Result
+
+The f1 score of Convolutional Neural Network after balancing the dataset using downsampling method is less than CNN with Maxpooling.
+
+The result of CNN after Maxpooling :
+
+![ana18](https://user-images.githubusercontent.com/33470542/81513020-42952400-92f3-11ea-96f6-8231cb5dea8c.png)
+
+
+The result of CNN after downsampling : 
+
+![ana19](https://user-images.githubusercontent.com/33470542/81513609-9570da80-92f7-11ea-97c1-7ebb4cfcbb51.png)
 
 
 
