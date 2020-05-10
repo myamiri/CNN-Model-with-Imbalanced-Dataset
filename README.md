@@ -51,7 +51,7 @@ You can see the imbalance of the dataset with this plot :
 
 # Result
 
-The f1 score of Convolutional Neural Network after balancing the dataset using downsampling method is less than CNN with Maxpooling.
+The f1 score of Convolutional Neural Network after balancing the dataset using downsampling method is less than when we are using Convolutional Neural Network with Maxpooling.
 
 The result of CNN after Maxpooling :
 
