@@ -10,15 +10,11 @@ For banks, risk management and default detection have always been a crucial part
 
 # Solution
 
-This dataset is imbalanced and features in both classes have huge overlap. For dealing with the imbalanced dataset with using the advantage of having many samples, I compared two methods:
+This dataset is imbalanced and features in both classes have huge overlap. For dealing with the imbalanced dataset with using the advantage of having many samples, I used two methods:
 
 1) Convolutional Neural Network adding maxpooling
 
-with
-
-2) Convolutional Neural Network after balancing my dataset with undersampling method.
-
-
+2) Convolutional Neural Network after balancing my dataset with undersampling method
 
 
 
