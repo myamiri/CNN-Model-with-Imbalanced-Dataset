@@ -13,6 +13,8 @@ This crisis caused a blow to consumer financial confidence and presented a big c
 
 
 
+
+
 # Solution
 
 This dataset is imbalanced and features in both classes have huge overlap. For dealing with the imbalanced dataset with using the advantage of having many samples, I used two methods:
