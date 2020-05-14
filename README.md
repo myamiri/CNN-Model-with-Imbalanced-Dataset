@@ -4,12 +4,10 @@
 
 # Problem
 
-For banks managing the credit risk of their clients has always been a fundamental part of their business. Defaults on credit card bill payment can result in a great financial loss. 
-To minimize this type of loss, banks need to accurately determine the likelihood that a particular credit card holder will pay their bill.
-Back in the great recession, many credit card issuers faced a credit card debt crisis. 
-Card-issuing banks over-issued credit cards to unqualified applicants in an attempt to increase their market share.
-At the same time, cardholders, irrespective of their repayment ability, overused credit cards for consumption purposes, and accumulated heavy debts. 
+For banks managing the credit risk of their clients has always been a fundamental part of their business. Defaults on credit card bill payment can result in a great financial loss. To minimize this type of loss, banks need to accurately determine the likelihood that a particular credit card holder will pay their bill.Back in the great recession, many credit card issuers faced a credit card debt crisis. 
+Card-issuing banks over-issued credit cards to unqualified applicants in an attempt to increase their market share. At the same time, cardholders, irrespective of their repayment ability, overused credit cards for consumption purposes, and accumulated heavy debts. 
 This crisis caused a blow to consumer financial confidence and presented a big challenge for both banks and cardholders.
+
 
 
 
